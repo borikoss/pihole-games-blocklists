@@ -441,8 +441,8 @@ repo.steamstatic.com
 rgl-prod.ros.rockstargames.com
 rimoplay.com
 riotgames.com
-rbxcdn.com
-roblox.com
+*.rbxcdn.com
+*.roblox.com
 roblox.de
 rockstargames.com
 rta.xboxlive.com
