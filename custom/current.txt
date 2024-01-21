@@ -1,3 +1,6 @@
+inventory.roblox.com
+thumbnails.roblox.com
+us-central-default-px.roblox.com
 roblox.com
 en.help.roblox.com
 devforum.roblox.com

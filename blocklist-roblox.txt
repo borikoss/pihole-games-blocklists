@@ -1,5 +1,9 @@
 # roblox.com
 
+0.0.0.0 inventory.roblox.com
+0.0.0.0 thumbnails.roblox.com
+0.0.0.0 us-central-default-px.roblox.com
+
 0.0.0.0 roblox.com
 0.0.0.0 en.help.roblox.com
 0.0.0.0 devforum.roblox.com
