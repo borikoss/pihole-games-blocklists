@@ -12,6 +12,8 @@ collector.snowplow.supercell.com
 creators.supercell.com
 esports.supercell.com
 gamesfirsthelsinki.com
+game.brawlstarsgame.com
+game-assets.brawlstarsgame.com
 hayday.com
 id.supercell.com
 inventory.mtech.supercell.com
