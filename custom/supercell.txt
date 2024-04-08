@@ -1,30 +1,30 @@
-account.supercell.com
-boombeach.com
-brawlstars-api.inbox.supercell.com
-brawlstars.com
-brawlstars.inbox.supercell.com
-cdn.id.supercell.com
-clash.com
-clashmini.com
-clashofclans.com
-clashroyale.com
-collector.snowplow.supercell.com
-creators.supercell.com
-esports.supercell.com
-gamesfirsthelsinki.com
-game.brawlstarsgame.com
-game-assets.brawlstarsgame.com
-hayday.com
-id.supercell.com
-inventory.mtech.supercell.com
-make.supercell.com
-mo.co
-seeurlpcl.com
-store.supercell.com
-supercell.com
-supercellcreators.com
-supercellgames.com
-supercellid.com
-supercellstore.com
-support.supercell.com
-workandplayatsupercell.com
+0.0.0.0 account.supercell.com
+0.0.0.0 boombeach.com
+0.0.0.0 brawlstars-api.inbox.supercell.com
+0.0.0.0 brawlstars.com
+0.0.0.0 brawlstars.inbox.supercell.com
+0.0.0.0 cdn.id.supercell.com
+0.0.0.0 clash.com
+0.0.0.0 clashmini.com
+0.0.0.0 clashofclans.com
+0.0.0.0 clashroyale.com
+0.0.0.0 collector.snowplow.supercell.com
+0.0.0.0 creators.supercell.com
+0.0.0.0 esports.supercell.com
+0.0.0.0 gamesfirsthelsinki.com
+0.0.0.0 game.brawlstarsgame.com
+0.0.0.0 game-assets.brawlstarsgame.com
+0.0.0.0 hayday.com
+0.0.0.0 id.supercell.com
+0.0.0.0 inventory.mtech.supercell.com
+0.0.0.0 make.supercell.com
+0.0.0.0 mo.co
+0.0.0.0 seeurlpcl.com
+0.0.0.0 store.supercell.com
+0.0.0.0 supercell.com
+0.0.0.0 supercellcreators.com
+0.0.0.0 supercellgames.com
+0.0.0.0 supercellid.com
+0.0.0.0 supercellstore.com
+0.0.0.0 support.supercell.com
+0.0.0.0 workandplayatsupercell.com

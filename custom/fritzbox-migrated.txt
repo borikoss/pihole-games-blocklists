@@ -1,494 +1,493 @@
-2game.com
-3games1box.com
-5games1box.com
-account-public-service-prod03.ol.epicgames.com
-account.ubisoft.com
-accountportal-website-prod07.ol.epicgames.com
-accounts.ea.com
-accounts.epicgames.com
-accounts.nintendo.com
-accounts.xboxlive.com
-achievementstats.com
-activesearchbar.me
-aheadofthegamemovie.com
-aheadofthegamethemovie.com
-aion.gameforge.com
-aiononline.com
-alabasterslim.com
-allkeyshop.com
-alps.cdn.nintendo.net
-analyzedota.com
-aperturelaboratories.com
-aperturelabratories.com
-aperturescience.com
-api-beta.steampowered.com
-api.accounts.nintendo.com
-api.ec.nintendo.com
-api.overwatchleague.com
-api.steampowered.com
-apps.accounts.nintendo.com
-arcadespot.com
-as32590.net
-asf.justarchi.net
-assets.xbox.com
-astats.astats.nl
-auth-rgl-prod.ros.rockstargames.com
-auth.api.sonyentertainmentnetwork.com
-auth.riotgames.com
-backloggery.com
-barter.vg
-battle.net
-best.discord.media
-beta.steamcommunity.com
-bigbeans.solutions
-bitlife.pro
-bitlifegames.com
-bladeandsoul.com
-blizzard.com
-blog.fr.playstation.com
-blzddist1-a.akamaihd.net
-blzmedia-a.akamaihd.net
-blzprofile.akamaized.net
-bnetcmsus-a.akamaihd.net
-bneteu-a.akamaihd.net
-boredbro.com
-bunchkeys.com
-bundled.in
-bundlestars.com
-cache-cms-ext-eu.battle.net
-cafe.steampowered.com
-cafesupport.steampowered.com
-cardreader.com
-catalog-public-service-prod06.ol.epicgames.com
-catalog.gamepass.com
-cdkeyit.it
-cdkeyprices.com
-cdkeys.com
-cdn-01-origin.steampowered.com
-cdn-01.steampowered.com
-cdn.akamai.steamstatic.com
-cdn.beta.steampowered.com
-cdn.discordapp.com
-cdn.steamcommunity.com
-cdn.steampowered.com
-cdn.store.steampowered.com
-cdn1.unrealengine.com
-cdn2.steampowered.com
-cdn2.store.steampowered.com
-cdn2.unrealengine.com
-cdn3.steampowered.com
-cdn3.store.steampowered.com
-cdn4.steampowered.com
-cdn4.store.steampowered.com
-cdntest.steampowered.com
-chatfd.xboxlive.com
-cheapdigitaldownload.com
-cheapshark.com
-chrono.gg
-cjs-cdkeys.com
-client-download.steampowered.com
-clientconfig.akamai.steamstatic.com
-clientconfig.rpg.riotgames.com
-cloud-2.steampowered.com
-cloud-3.steampowered.com
-cloud-4.steampowered.com
-cloud.steampowered.com
-clubhub.xboxlive.com
-cm0.steampowered.com
-cm02-ord.cm.steampowered.com
-cm03-ord.cm.steampowered.com
-cm04-ord.cm.steampowered.com
-cm1-par1.cm.steampowered.com
-comments.xboxlive.com
-community.steampowered.com
-compare2steam.com
-completionator.com
-completionist.me
-connect.ubisoft.com
-consogame.com
-controllers.xbox.com
-conv-blizzard-emea.cd.serving-sys.com
-coolmathgames.com
-counter-strike.com.tw
-counter-strike.net
-counter-strike3.net
-counter-strike4.com
-counter-strike4.net
-counter-strike5.com
-counter-strike5.net
-counterstrike.com.tw
-counterstrike.tw
-counterstrike5.net
-counterstriketv.com
-crash.steampowered.com
-crazygames.com
-crazygames.fr
-cs-conditionzero.com
-cs.steampowered.com
-csonline.com.tr
-csonline.com.tw
-csoturkey.com.tr
-csoturkey.info
-csoturkey.net
-custeam.io
-dailydota2.com
-dailyindiegame.com
-data.riotgames.com
-data1.origin.com
-data2.origin.com
-data4.origin.com
-datarouter.ol.epicgames.com
-dayofdefeat.com
-dayofdefeat1.com
-dayofdefeat1.net
-dayofdefeat2.com
-dayofdefeat2.net
-dayofdefeat3.com
-dayofdefeat3.net
-dayofdefeatmod.com
-dayofdefeattv.com
-de.socialclub.rockstargames.com
-deal.kinguin.net
-deathmatchclassic.com
-developer.valvesoftware.com
-dis.gd
-dispenser.tf
-dl.tnt.gameforge.com
-dlassets-ssl.xboxlive.com
-dlcompare.fr
-dlgamer.com
-dod1.net
-dod2.com
-dod2.net
-dod3.com
-dod3.net
-dofreegames.com
-dota2.com
-dotabuff.com
-dotaconcept.com
-downloaders.reloadedtech.com
-ea.com
-editorial.xboxlive.com
-emulatoronline.com
-eneba.com
-enhancedsteam.com
-entitlement-public-service-prod08.ol.epicgames.com
-epicbundle.com
-epicgames-download1.akamaized.net
-epicgames.com
-epicgames.com
-epicgames.com
-epicgames.com
-es-mx.socialclub.rockstargames.com
-es.isthereanydeal.com
-es.socialclub.rockstargames.com
-eu.api.blizzard.com
-eu.battle.net
-eu.cdn.blizzard.com
-eu.launcher.battle.net
-eu.playstation.com
-eu.version.battle.net
-eurogamer.net
-euw.leagueoflegends.com
-events.gameforge.com
-exophase.com
-fanatical.com
-fangamesonline.com
-files.teamspeak-services.com
-fishinggamespod.com
-flipline.com
-fonts.ea.com
-fonts.ea.com.c.footprint.net
-forms.teamspeak.com
-forums.steampowered.com
-fr.gamesplanet.com
-fr.ign.com
-fr.socialclub.rockstargames.com
-freetoplaythemovie.com
-friends-public-service-prod06.ol.epicgames.com
-g2a.com
-g2play.net
-game.co.uk
-gamebillet.com
-gamedeed.com
-gamedex.net
-gamedownloads-rockstargames-com.akamaized.net
-gamedownloads.rockstargames.com
-gameforge.com
-gamegauntlets.com
-gameladen.com
-gamerlifemovie.com
-gamerlifethemovie.com
-gamersfirst.com
-gamersfirst.com.cdn.cloudflare.net
-gamersgate.com
-gamesave-manager.com
-gamesbean.com
-gamesdeal.com
-gamesonline.org
-gamesplanet.com
-gamespot.com
-gamesradar.com
-gamestwoplayer.com
-gamingdragons.com
-gamivo.com
-gateway.discord.gg
-gds1.steampowered.com
-gds2.steampowered.com
-gds3.steampowered.com
-gds4.steampowered.com
-getinsidetheorangebox.com
-gg.deals
-goclecd.fr
-gog.com
-gogalaxy.com
-greenlightupdates.com
-greenmangaming.com
-groupees.com
-grouvee.com
-half-life.com
-half-life2.com
-half-life2movie.com
-half-life2portal.com
-half-life2portal.net
-half-life2sucks.com
-half-life3.com
-half-life3.net
-half-life3.org
-half-life3movie.com
-half-lifeminerva.com
-half-lifemovie.com
-half-lifeportal.com
-half-lifeportal.net
-halflife.net
-halflife2movie.com
-halflife2portal.com
-halflife2portal.net
-halflife2sucks.com
-halflife2themovie.com
-halflife3.net
-halflife3.org
-halflife3movie.com
-halflife3themovie.com
-halflifemac.com
-halflifeminerva.com
-halflifeportal.net
-halflifethemovie.com
-help.steampowered.com
-hl1master.steampowered.com
-hl2.org
-hl2master.steampowered.com
-hl2portal.com
-hl2portal.net
-hl2sucks.com
-hlauth.net
-hole-io.com
-howlongtobeat.com
-howlongtobeatsteam.com
-hrkgame.com
-humblebundle.com
-id.sonyentertainmentnetwork.com
-ign.com
-iir.blizzard.com
-images-eds.xboxlive.com
-images-ext-1.discordapp.net
-images-ext-2.discordapp.net
-indiegala.com
-install.gameforge.com
-instant-gaming.com
-ipv6check-udp.steamcontent.com
-issteamdown.com
-isthereanydeal.com
-it.socialclub.rockstargames.com
-ja.socialclub.rockstargames.com
-jeu.fr
-jeux-video.fnac.com
-jeuxvideo.com
-jumpscaregames.com
-keeptrackofmygames.com
-keyofgames.com
-kinguin.net
-ko.socialclub.rockstargames.com
-ks-foundation.secure.dyn.riotcdn.net
-l4d.com
-l4d2.com.cn
-lan.steampowered.com
-launcher-public-service-prod06.ol.epicgames.com
-launcher-website-prod07.ol.epicgames.com
-launcherwaitingroom-public-service-prod06.ol.epicgames.com
-lazyguysbundle.com
-leagueoflegends.com
-learningwithportals.com
-learnwithportals.com
-leftfourdead.com
-leftfourdead.net
-level3.blizzard.com
-level3.ssl.blizzard.com
-levelsmack.com
-lightswitch-public-service-prod06.ol.epicgames.com
-login.leagueoflegends.com
-lol.secure.dyn.riotcdn.net
-lolalytics.com
-lolcounter.com
-lolesports.com
-lolking.net
-lolmath.net
-lolstatic-a.akamaihd.net
-lootcrate.com
-lorenzostanco.com
-mariogames.io
-marketplace.tf
-media-rockstargames-com.akamaized.net
-media.contentapi.ea.com
-media.discordapp.net
-media.steamcommunity.com
-messdistr1-rdr2-prod.ros.rockstargames.com
-messdistr2-rdr2-prod.ros.rockstargames.com
-metacritic.com
-metagamerscore.com
-micromania.fr
-midnight-riders.com
-midnight-riders.net
-minecraft.net
-minervametastasis.com
-mmoga.fr
-moddota.com
-modexpo.com
-msgamestudios.com
-mx1.steampowered.com
-mx2.steampowered.com
-mx3.steampowered.com
-mysteamgauge.com
-myteamspeak.com
-na.leagueoflegends.com
-ncsoft.com
-nds-network-nav.ea.com
-nerdchan.net
-new.steam.nyan.link
-news.ubisoft.com
-nick.com.au
-notify.xboxlive.com
-ns1.valvesoftware.com
-ns2.valvesoftware.com
-ns3.valvesoftware.com
-nuuvem.com
-nydus.battle.net
-oembed.leagueoflegends.com
-onestore.ms
-online-gold.de
-opendota.com
-opposing-force.com
-opposing-force.net
-opposing-force.org
-opposingforce.com
-orderprocessor-public-service-ecomprod01.ol.epicgames.com
-origin.com
-origin.com
-originassets.akamaized.net
-otakumaker.com
-overlay.ubisoft.com
-partner.steamgames.com
-partner.steampowered.com
-paypal.steampowered.com
-pcgameit.com
-pcgamer.com
-pcgamesn.com
-pcmag.com
-pcshellapptile.xboxlive.com
-peoplehub.xboxlive.com
-pepeizqapps.com
-pepeizqdeals.com
-pickaga.me
-pin-river.data.ea.com
-pl.ea.com
-pl.socialclub.rockstargames.com
-play.euw.leagueoflegends.com
-play.na.leagueoflegends.com
-playbombermanonline.com
-playemulator.com
-playerauctions.com
-playhearthstone.com
-playinjector.com
-playmariogames.com
-playnite.link
-playstation.com
-playtracker.net
-pokemon.com
-pokemon.de
-poki.com
-portal2-game.com
-portal2-thegame.com
-portal2game.net
-portal2thegame.com
-poweredbysteam.net
-pressureforsteam.com
-privacy.xboxlive.com
-profile.xboxlive.com
-psmedia.playstation.com
-psnprofile.com
-psnprofiles.com
-pt.socialclub.rockstargames.com
-public-ubiservices.ubi.com
-puffgames.com
-pupugames.com
-randomsteamgame.com
-razer.com
-register.gamersfirst.com
-register.gamersfirst.com.cdn.cloudflare.net
-removed.timekillerz.eu
-repo.steampowered.com
-repo.steamstatic.com
-rgl-prod.ros.rockstargames.com
-rimoplay.com
-riotgames.com
-rbxcdn.com
-roblox.com
-roblox.de
-ecsv2.roblox.com
-client-telemetry.roblox.com
-locale.roblox.com
-assetdelivery.roblox.com
-ephemeralcounters.api.roblox.com
-assetgame.roblox.com
-presence.roblox.com
-games.roblox.com 
-rockstargames.com
-rta.xboxlive.com
-ru.socialclub.rockstargames.com
-s.lolstatic.com
-s.team
-scaryexe.com
-scdkey.com
-scrap.tf
-secure-asset-delivery.gameforge.com
-secure.eu.playstation.com
-servc.eu
-sessiondirectory.xboxlive.com
-sgtools.info
-shadow.tech
-shopatvalve.com
-signin.ea.com
-signin.rockstargames.com
-signup-api.leagueoflegends.com
-signup-api.riotgames.com.cdn.cloudflare.net
-signup.euw.leagueoflegends.com
-signup.na.leagueoflegends.com
-signup.na.leagueoflegends.com.cdn.cloudflare.net
-silvergames.com
-sitegeek.fr
-smtp01.steampowered.com
-smtp02.steampowered.com
-social.playstation.com
-social.xboxlive.com
-socialclub.rockstargames.com
-sonyentertainmentnetwork.com
-source.valvesoftware.com
-sourcefilmmaker.com
-spiele-umsonst.de
-stadia.dev
-steamcontent.com
-steampowered.com
-steampowered.com
-steamserver.net
-tiktok.com
-twitch.tv
+0.0.0.0 2game.com
+0.0.0.0 3games1box.com
+0.0.0.0 5games1box.com
+0.0.0.0 account-public-service-prod03.ol.epicgames.com
+0.0.0.0 account.ubisoft.com
+0.0.0.0 accountportal-website-prod07.ol.epicgames.com
+0.0.0.0 accounts.ea.com
+0.0.0.0 accounts.epicgames.com
+0.0.0.0 accounts.nintendo.com
+0.0.0.0 accounts.xboxlive.com
+0.0.0.0 achievementstats.com
+0.0.0.0 activesearchbar.me
+0.0.0.0 aheadofthegamemovie.com
+0.0.0.0 aheadofthegamethemovie.com
+0.0.0.0 aion.gameforge.com
+0.0.0.0 aiononline.com
+0.0.0.0 alabasterslim.com
+0.0.0.0 allkeyshop.com
+0.0.0.0 alps.cdn.nintendo.net
+0.0.0.0 analyzedota.com
+0.0.0.0 aperturelaboratories.com
+0.0.0.0 aperturelabratories.com
+0.0.0.0 aperturescience.com
+0.0.0.0 api-beta.steampowered.com
+0.0.0.0 api.accounts.nintendo.com
+0.0.0.0 api.ec.nintendo.com
+0.0.0.0 api.overwatchleague.com
+0.0.0.0 api.steampowered.com
+0.0.0.0 apps.accounts.nintendo.com
+0.0.0.0 arcadespot.com
+0.0.0.0 as32590.net
+0.0.0.0 asf.justarchi.net
+0.0.0.0 assets.xbox.com
+0.0.0.0 astats.astats.nl
+0.0.0.0 auth-rgl-prod.ros.rockstargames.com
+0.0.0.0 auth.api.sonyentertainmentnetwork.com
+0.0.0.0 auth.riotgames.com
+0.0.0.0 backloggery.com
+0.0.0.0 barter.vg
+0.0.0.0 battle.net
+0.0.0.0 best.discord.media
+0.0.0.0 beta.steamcommunity.com
+0.0.0.0 bigbeans.solutions
+0.0.0.0 bitlife.pro
+0.0.0.0 bitlifegames.com
+0.0.0.0 bladeandsoul.com
+0.0.0.0 blizzard.com
+0.0.0.0 blog.fr.playstation.com
+0.0.0.0 blzddist1-a.akamaihd.net
+0.0.0.0 blzmedia-a.akamaihd.net
+0.0.0.0 blzprofile.akamaized.net
+0.0.0.0 bnetcmsus-a.akamaihd.net
+0.0.0.0 bneteu-a.akamaihd.net
+0.0.0.0 boredbro.com
+0.0.0.0 bunchkeys.com
+0.0.0.0 bundled.in
+0.0.0.0 bundlestars.com
+0.0.0.0 cache-cms-ext-eu.battle.net
+0.0.0.0 cafe.steampowered.com
+0.0.0.0 cafesupport.steampowered.com
+0.0.0.0 cardreader.com
+0.0.0.0 catalog-public-service-prod06.ol.epicgames.com
+0.0.0.0 catalog.gamepass.com
+0.0.0.0 cdkeyit.it
+0.0.0.0 cdkeyprices.com
+0.0.0.0 cdkeys.com
+0.0.0.0 cdn-01-origin.steampowered.com
+0.0.0.0 cdn-01.steampowered.com
+0.0.0.0 cdn.akamai.steamstatic.com
+0.0.0.0 cdn.beta.steampowered.com
+0.0.0.0 cdn.discordapp.com
+0.0.0.0 cdn.steamcommunity.com
+0.0.0.0 cdn.steampowered.com
+0.0.0.0 cdn.store.steampowered.com
+0.0.0.0 cdn1.unrealengine.com
+0.0.0.0 cdn2.steampowered.com
+0.0.0.0 cdn2.store.steampowered.com
+0.0.0.0 cdn2.unrealengine.com
+0.0.0.0 cdn3.steampowered.com
+0.0.0.0 cdn3.store.steampowered.com
+0.0.0.0 cdn4.steampowered.com
+0.0.0.0 cdn4.store.steampowered.com
+0.0.0.0 cdntest.steampowered.com
+0.0.0.0 chatfd.xboxlive.com
+0.0.0.0 cheapdigitaldownload.com
+0.0.0.0 cheapshark.com
+0.0.0.0 chrono.gg
+0.0.0.0 cjs-cdkeys.com
+0.0.0.0 client-download.steampowered.com
+0.0.0.0 clientconfig.akamai.steamstatic.com
+0.0.0.0 clientconfig.rpg.riotgames.com
+0.0.0.0 cloud-2.steampowered.com
+0.0.0.0 cloud-3.steampowered.com
+0.0.0.0 cloud-4.steampowered.com
+0.0.0.0 cloud.steampowered.com
+0.0.0.0 clubhub.xboxlive.com
+0.0.0.0 cm0.steampowered.com
+0.0.0.0 cm02-ord.cm.steampowered.com
+0.0.0.0 cm03-ord.cm.steampowered.com
+0.0.0.0 cm04-ord.cm.steampowered.com
+0.0.0.0 cm1-par1.cm.steampowered.com
+0.0.0.0 comments.xboxlive.com
+0.0.0.0 community.steampowered.com
+0.0.0.0 compare2steam.com
+0.0.0.0 completionator.com
+0.0.0.0 completionist.me
+0.0.0.0 connect.ubisoft.com
+0.0.0.0 consogame.com
+0.0.0.0 controllers.xbox.com
+0.0.0.0 conv-blizzard-emea.cd.serving-sys.com
+0.0.0.0 coolmathgames.com
+0.0.0.0 counter-strike.com.tw
+0.0.0.0 counter-strike.net
+0.0.0.0 counter-strike3.net
+0.0.0.0 counter-strike4.com
+0.0.0.0 counter-strike4.net
+0.0.0.0 counter-strike5.com
+0.0.0.0 counter-strike5.net
+0.0.0.0 counterstrike.com.tw
+0.0.0.0 counterstrike.tw
+0.0.0.0 counterstrike5.net
+0.0.0.0 counterstriketv.com
+0.0.0.0 crash.steampowered.com
+0.0.0.0 crazygames.com
+0.0.0.0 crazygames.fr
+0.0.0.0 cs-conditionzero.com
+0.0.0.0 cs.steampowered.com
+0.0.0.0 csonline.com.tr
+0.0.0.0 csonline.com.tw
+0.0.0.0 csoturkey.com.tr
+0.0.0.0 csoturkey.info
+0.0.0.0 csoturkey.net
+0.0.0.0 custeam.io
+0.0.0.0 dailydota2.com
+0.0.0.0 dailyindiegame.com
+0.0.0.0 data.riotgames.com
+0.0.0.0 data1.origin.com
+0.0.0.0 data2.origin.com
+0.0.0.0 data4.origin.com
+0.0.0.0 datarouter.ol.epicgames.com
+0.0.0.0 dayofdefeat.com
+0.0.0.0 dayofdefeat1.com
+0.0.0.0 dayofdefeat1.net
+0.0.0.0 dayofdefeat2.com
+0.0.0.0 dayofdefeat2.net
+0.0.0.0 dayofdefeat3.com
+0.0.0.0 dayofdefeat3.net
+0.0.0.0 dayofdefeatmod.com
+0.0.0.0 dayofdefeattv.com
+0.0.0.0 de.socialclub.rockstargames.com
+0.0.0.0 deal.kinguin.net
+0.0.0.0 deathmatchclassic.com
+0.0.0.0 developer.valvesoftware.com
+0.0.0.0 dis.gd
+0.0.0.0 dispenser.tf
+0.0.0.0 dl.tnt.gameforge.com
+0.0.0.0 dlassets-ssl.xboxlive.com
+0.0.0.0 dlcompare.fr
+0.0.0.0 dlgamer.com
+0.0.0.0 dod1.net
+0.0.0.0 dod2.com
+0.0.0.0 dod2.net
+0.0.0.0 dod3.com
+0.0.0.0 dod3.net
+0.0.0.0 dofreegames.com
+0.0.0.0 dota2.com
+0.0.0.0 dotabuff.com
+0.0.0.0 dotaconcept.com
+0.0.0.0 downloaders.reloadedtech.com
+0.0.0.0 ea.com
+0.0.0.0 editorial.xboxlive.com
+0.0.0.0 emulatoronline.com
+0.0.0.0 eneba.com
+0.0.0.0 enhancedsteam.com
+0.0.0.0 entitlement-public-service-prod08.ol.epicgames.com
+0.0.0.0 epicbundle.com
+0.0.0.0 epicgames-download1.akamaized.net
+0.0.0.0 epicgames.com
+0.0.0.0 epicgames.com
+0.0.0.0 epicgames.com
+0.0.0.0 epicgames.com
+0.0.0.0 es-mx.socialclub.rockstargames.com
+0.0.0.0 es.isthereanydeal.com
+0.0.0.0 es.socialclub.rockstargames.com
+0.0.0.0 eu.api.blizzard.com
+0.0.0.0 eu.battle.net
+0.0.0.0 eu.cdn.blizzard.com
+0.0.0.0 eu.launcher.battle.net
+0.0.0.0 eu.playstation.com
+0.0.0.0 eu.version.battle.net
+0.0.0.0 eurogamer.net
+0.0.0.0 euw.leagueoflegends.com
+0.0.0.0 events.gameforge.com
+0.0.0.0 exophase.com
+0.0.0.0 fanatical.com
+0.0.0.0 fangamesonline.com
+0.0.0.0 files.teamspeak-services.com
+0.0.0.0 fishinggamespod.com
+0.0.0.0 flipline.com
+0.0.0.0 fonts.ea.com
+0.0.0.0 fonts.ea.com.c.footprint.net
+0.0.0.0 forms.teamspeak.com
+0.0.0.0 forums.steampowered.com
+0.0.0.0 fr.gamesplanet.com
+0.0.0.0 fr.ign.com
+0.0.0.0 fr.socialclub.rockstargames.com
+0.0.0.0 freetoplaythemovie.com
+0.0.0.0 friends-public-service-prod06.ol.epicgames.com
+0.0.0.0 g2a.com
+0.0.0.0 g2play.net
+0.0.0.0 game.co.uk
+0.0.0.0 gamebillet.com
+0.0.0.0 gamedeed.com
+0.0.0.0 gamedex.net
+0.0.0.0 gamedownloads-rockstargames-com.akamaized.net
+0.0.0.0 gamedownloads.rockstargames.com
+0.0.0.0 gameforge.com
+0.0.0.0 gamegauntlets.com
+0.0.0.0 gameladen.com
+0.0.0.0 gamerlifemovie.com
+0.0.0.0 gamerlifethemovie.com
+0.0.0.0 gamersfirst.com
+0.0.0.0 gamersfirst.com.cdn.cloudflare.net
+0.0.0.0 gamersgate.com
+0.0.0.0 gamesave-manager.com
+0.0.0.0 gamesbean.com
+0.0.0.0 gamesdeal.com
+0.0.0.0 gamesonline.org
+0.0.0.0 gamesplanet.com
+0.0.0.0 gamespot.com
+0.0.0.0 gamesradar.com
+0.0.0.0 gamestwoplayer.com
+0.0.0.0 gamingdragons.com
+0.0.0.0 gamivo.com
+0.0.0.0 gateway.discord.gg
+0.0.0.0 gds1.steampowered.com
+0.0.0.0 gds2.steampowered.com
+0.0.0.0 gds3.steampowered.com
+0.0.0.0 gds4.steampowered.com
+0.0.0.0 getinsidetheorangebox.com
+0.0.0.0 gg.deals
+0.0.0.0 goclecd.fr
+0.0.0.0 gog.com
+0.0.0.0 gogalaxy.com
+0.0.0.0 greenlightupdates.com
+0.0.0.0 greenmangaming.com
+0.0.0.0 groupees.com
+0.0.0.0 grouvee.com
+0.0.0.0 half-life.com
+0.0.0.0 half-life2.com
+0.0.0.0 half-life2movie.com
+0.0.0.0 half-life2portal.com
+0.0.0.0 half-life2portal.net
+0.0.0.0 half-life2sucks.com
+0.0.0.0 half-life3.com
+0.0.0.0 half-life3.net
+0.0.0.0 half-life3.org
+0.0.0.0 half-life3movie.com
+0.0.0.0 half-lifeminerva.com
+0.0.0.0 half-lifemovie.com
+0.0.0.0 half-lifeportal.com
+0.0.0.0 half-lifeportal.net
+0.0.0.0 halflife.net
+0.0.0.0 halflife2movie.com
+0.0.0.0 halflife2portal.com
+0.0.0.0 halflife2portal.net
+0.0.0.0 halflife2sucks.com
+0.0.0.0 halflife2themovie.com
+0.0.0.0 halflife3.net
+0.0.0.0 halflife3.org
+0.0.0.0 halflife3movie.com
+0.0.0.0 halflife3themovie.com
+0.0.0.0 halflifemac.com
+0.0.0.0 halflifeminerva.com
+0.0.0.0 halflifeportal.net
+0.0.0.0 halflifethemovie.com
+0.0.0.0 help.steampowered.com
+0.0.0.0 hl1master.steampowered.com
+0.0.0.0 hl2.org
+0.0.0.0 hl2master.steampowered.com
+0.0.0.0 hl2portal.com
+0.0.0.0 hl2portal.net
+0.0.0.0 hl2sucks.com
+0.0.0.0 hlauth.net
+0.0.0.0 hole-io.com
+0.0.0.0 howlongtobeat.com
+0.0.0.0 howlongtobeatsteam.com
+0.0.0.0 hrkgame.com
+0.0.0.0 humblebundle.com
+0.0.0.0 id.sonyentertainmentnetwork.com
+0.0.0.0 ign.com
+0.0.0.0 iir.blizzard.com
+0.0.0.0 images-eds.xboxlive.com
+0.0.0.0 images-ext-1.discordapp.net
+0.0.0.0 images-ext-2.discordapp.net
+0.0.0.0 indiegala.com
+0.0.0.0 install.gameforge.com
+0.0.0.0 instant-gaming.com
+0.0.0.0 ipv6check-udp.steamcontent.com
+0.0.0.0 issteamdown.com
+0.0.0.0 isthereanydeal.com
+0.0.0.0 it.socialclub.rockstargames.com
+0.0.0.0 ja.socialclub.rockstargames.com
+0.0.0.0 jeu.fr
+0.0.0.0 jeux-video.fnac.com
+0.0.0.0 jeuxvideo.com
+0.0.0.0 jumpscaregames.com
+0.0.0.0 keeptrackofmygames.com
+0.0.0.0 keyofgames.com
+0.0.0.0 kinguin.net
+0.0.0.0 ko.socialclub.rockstargames.com
+0.0.0.0 ks-foundation.secure.dyn.riotcdn.net
+0.0.0.0 l4d.com
+0.0.0.0 l4d2.com.cn
+0.0.0.0 lan.steampowered.com
+0.0.0.0 launcher-public-service-prod06.ol.epicgames.com
+0.0.0.0 launcher-website-prod07.ol.epicgames.com
+0.0.0.0 launcherwaitingroom-public-service-prod06.ol.epicgames.com
+0.0.0.0 lazyguysbundle.com
+0.0.0.0 leagueoflegends.com
+0.0.0.0 learningwithportals.com
+0.0.0.0 learnwithportals.com
+0.0.0.0 leftfourdead.com
+0.0.0.0 leftfourdead.net
+0.0.0.0 level3.blizzard.com
+0.0.0.0 level3.ssl.blizzard.com
+0.0.0.0 levelsmack.com
+0.0.0.0 lightswitch-public-service-prod06.ol.epicgames.com
+0.0.0.0 login.leagueoflegends.com
+0.0.0.0 lol.secure.dyn.riotcdn.net
+0.0.0.0 lolalytics.com
+0.0.0.0 lolcounter.com
+0.0.0.0 lolesports.com
+0.0.0.0 lolking.net
+0.0.0.0 lolmath.net
+0.0.0.0 lolstatic-a.akamaihd.net
+0.0.0.0 lootcrate.com
+0.0.0.0 lorenzostanco.com
+0.0.0.0 mariogames.io
+0.0.0.0 marketplace.tf
+0.0.0.0 media-rockstargames-com.akamaized.net
+0.0.0.0 media.contentapi.ea.com
+0.0.0.0 media.discordapp.net
+0.0.0.0 media.steamcommunity.com
+0.0.0.0 messdistr1-rdr2-prod.ros.rockstargames.com
+0.0.0.0 messdistr2-rdr2-prod.ros.rockstargames.com
+0.0.0.0 metacritic.com
+0.0.0.0 metagamerscore.com
+0.0.0.0 micromania.fr
+0.0.0.0 midnight-riders.com
+0.0.0.0 midnight-riders.net
+0.0.0.0 minecraft.net
+0.0.0.0 minervametastasis.com
+0.0.0.0 mmoga.fr
+0.0.0.0 moddota.com
+0.0.0.0 modexpo.com
+0.0.0.0 msgamestudios.com
+0.0.0.0 mx1.steampowered.com
+0.0.0.0 mx2.steampowered.com
+0.0.0.0 mx3.steampowered.com
+0.0.0.0 mysteamgauge.com
+0.0.0.0 myteamspeak.com
+0.0.0.0 na.leagueoflegends.com
+0.0.0.0 ncsoft.com
+0.0.0.0 nds-network-nav.ea.com
+0.0.0.0 nerdchan.net
+0.0.0.0 new.steam.nyan.link
+0.0.0.0 news.ubisoft.com
+0.0.0.0 nick.com.au
+0.0.0.0 notify.xboxlive.com
+0.0.0.0 ns1.valvesoftware.com
+0.0.0.0 ns2.valvesoftware.com
+0.0.0.0 ns3.valvesoftware.com
+0.0.0.0 nuuvem.com
+0.0.0.0 nydus.battle.net
+0.0.0.0 oembed.leagueoflegends.com
+0.0.0.0 onestore.ms
+0.0.0.0 online-gold.de
+0.0.0.0 opendota.com
+0.0.0.0 opposing-force.com
+0.0.0.0 opposing-force.net
+0.0.0.0 opposing-force.org
+0.0.0.0 opposingforce.com
+0.0.0.0 orderprocessor-public-service-ecomprod01.ol.epicgames.com
+0.0.0.0 origin.com
+0.0.0.0 origin.com
+0.0.0.0 originassets.akamaized.net
+0.0.0.0 otakumaker.com
+0.0.0.0 overlay.ubisoft.com
+0.0.0.0 partner.steamgames.com
+0.0.0.0 partner.steampowered.com
+0.0.0.0 paypal.steampowered.com
+0.0.0.0 pcgameit.com
+0.0.0.0 pcgamer.com
+0.0.0.0 pcgamesn.com
+0.0.0.0 pcmag.com
+0.0.0.0 pcshellapptile.xboxlive.com
+0.0.0.0 peoplehub.xboxlive.com
+0.0.0.0 pepeizqapps.com
+0.0.0.0 pepeizqdeals.com
+0.0.0.0 pickaga.me
+0.0.0.0 pin-river.data.ea.com
+0.0.0.0 pl.ea.com
+0.0.0.0 pl.socialclub.rockstargames.com
+0.0.0.0 play.euw.leagueoflegends.com
+0.0.0.0 play.na.leagueoflegends.com
+0.0.0.0 playbombermanonline.com
+0.0.0.0 playemulator.com
+0.0.0.0 playerauctions.com
+0.0.0.0 playhearthstone.com
+0.0.0.0 playinjector.com
+0.0.0.0 playmariogames.com
+0.0.0.0 playnite.link
+0.0.0.0 playstation.com
+0.0.0.0 playtracker.net
+0.0.0.0 pokemon.com
+0.0.0.0 pokemon.de
+0.0.0.0 poki.com
+0.0.0.0 portal2-game.com
+0.0.0.0 portal2-thegame.com
+0.0.0.0 portal2game.net
+0.0.0.0 portal2thegame.com
+0.0.0.0 poweredbysteam.net
+0.0.0.0 pressureforsteam.com
+0.0.0.0 privacy.xboxlive.com
+0.0.0.0 profile.xboxlive.com
+0.0.0.0 psmedia.playstation.com
+0.0.0.0 psnprofile.com
+0.0.0.0 psnprofiles.com
+0.0.0.0 pt.socialclub.rockstargames.com
+0.0.0.0 public-ubiservices.ubi.com
+0.0.0.0 puffgames.com
+0.0.0.0 pupugames.com
+0.0.0.0 randomsteamgame.com
+0.0.0.0 razer.com
+0.0.0.0 register.gamersfirst.com
+0.0.0.0 register.gamersfirst.com.cdn.cloudflare.net
+0.0.0.0 removed.timekillerz.eu
+0.0.0.0 repo.steampowered.com
+0.0.0.0 repo.steamstatic.com
+0.0.0.0 rgl-prod.ros.rockstargames.com
+0.0.0.0 rimoplay.com
+0.0.0.0 riotgames.com
+0.0.0.0 rbxcdn.com
+0.0.0.0 roblox.com
+0.0.0.0 roblox.de
+0.0.0.0 ecsv2.roblox.com
+0.0.0.0 client-telemetry.roblox.com
+0.0.0.0 locale.roblox.com
+0.0.0.0 assetdelivery.roblox.com
+0.0.0.0 ephemeralcounters.api.roblox.com
+0.0.0.0 assetgame.roblox.com
+0.0.0.0 presence.roblox.com
+0.0.0.0 games.roblox.com
+0.0.0.0 rockstargames.com
+0.0.0.0 rta.xboxlive.com
+0.0.0.0 ru.socialclub.rockstargames.com
+0.0.0.0 s.lolstatic.com
+0.0.0.0 s.team
+0.0.0.0 scaryexe.com
+0.0.0.0 scdkey.com
+0.0.0.0 scrap.tf
+0.0.0.0 secure-asset-delivery.gameforge.com
+0.0.0.0 secure.eu.playstation.com
+0.0.0.0 servc.eu
+0.0.0.0 sessiondirectory.xboxlive.com
+0.0.0.0 sgtools.info
+0.0.0.0 shadow.tech
+0.0.0.0 shopatvalve.com
+0.0.0.0 signin.ea.com
+0.0.0.0 signin.rockstargames.com
+0.0.0.0 signup-api.leagueoflegends.com
+0.0.0.0 signup-api.riotgames.com.cdn.cloudflare.net
+0.0.0.0 signup.euw.leagueoflegends.com
+0.0.0.0 signup.na.leagueoflegends.com
+0.0.0.0 signup.na.leagueoflegends.com.cdn.cloudflare.net
+0.0.0.0 silvergames.com
+0.0.0.0 sitegeek.fr
+0.0.0.0 smtp01.steampowered.com
+0.0.0.0 smtp02.steampowered.com
+0.0.0.0 social.playstation.com
+0.0.0.0 social.xboxlive.com
+0.0.0.0 socialclub.rockstargames.com
+0.0.0.0 sonyentertainmentnetwork.com
+0.0.0.0 source.valvesoftware.com
+0.0.0.0 sourcefilmmaker.com
+0.0.0.0 spiele-umsonst.de
+0.0.0.0 stadia.dev
+0.0.0.0 steamcontent.com
+0.0.0.0 steampowered.com
+0.0.0.0 steampowered.com
+0.0.0.0 steamserver.net
+0.0.0.0 tiktok.com
