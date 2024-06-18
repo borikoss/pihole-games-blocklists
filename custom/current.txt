@@ -17085,6 +17085,12 @@
 0.0.0.0 jengadb.naturalmotion.com
 0.0.0.0 novembersoftware.com
 0.0.0.0 floodg.com
+0.0.0.0 game-assets.clashofclans.com
+0.0.0.0 game-assets.squadbustersgame.com
+0.0.0.0 game.clashofclans.com
+0.0.0.0 game.clashroyaleapp.com
+0.0.0.0 game.squadbustersgame.com
+0.0.0.0 ingame-webviews.supercell.com
 0.0.0.0 2game.com
 0.0.0.0 3games1box.com
 0.0.0.0 5games1box.com
