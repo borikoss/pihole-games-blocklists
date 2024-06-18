@@ -1,3 +1,8 @@
+0.0.0.0 clashofclans.inbox.supercell.com
+0.0.0.0 clashroyale.inbox.supercell.com
+0.0.0.0 proxy.id.supercell.com
+0.0.0.0 security.id.supercell.com
+0.0.0.0 squadbusters.inbox.supercell.com
 0.0.0.0 game-assets.clashofclans.com
 0.0.0.0 game-assets.squadbustersgame.com
 0.0.0.0 game.clashofclans.com
