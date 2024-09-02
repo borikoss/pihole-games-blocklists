@@ -1,6 +1,7 @@
 # ea.com
 
 0.0.0.0 ea.com
+0.0.0.0 store.galaxy-of-heroes.starwars.ea.com
 0.0.0.0 help.ea.com
 0.0.0.0 forum.ea.com
 0.0.0.0 answers.ea.com

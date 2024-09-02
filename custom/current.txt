@@ -5148,6 +5148,7 @@
 0.0.0.0 steamchat.com
 0.0.0.0 www.steamchat.com
 0.0.0.0 ea.com
+0.0.0.0 store.galaxy-of-heroes.starwars.ea.com
 0.0.0.0 help.ea.com
 0.0.0.0 forum.ea.com
 0.0.0.0 answers.ea.com
@@ -17085,6 +17086,8 @@
 0.0.0.0 jengadb.naturalmotion.com
 0.0.0.0 novembersoftware.com
 0.0.0.0 floodg.com
+0.0.0.0 swprod.capitalgames.com
+0.0.0.0 swprod-channel.capitalgames.com
 0.0.0.0 clashofclans.inbox.supercell.com
 0.0.0.0 clashroyale.inbox.supercell.com
 0.0.0.0 proxy.id.supercell.com
