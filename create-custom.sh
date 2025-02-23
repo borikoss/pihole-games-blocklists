@@ -7,6 +7,4 @@ cat ${FILE_LIST} | grep -v '#' | grep -v -e  '^$' > custom/current.txt
 
 cat 'custom/fritzbox-migrated.txt' >> custom/current.txt
 
-echo "\r" >> custom/current.txt
-
 cat 'custom/supercell.txt' >> custom/current.txt

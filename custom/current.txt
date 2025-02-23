@@ -17596,7 +17596,6 @@
 0.0.0.0 steampowered.com
 0.0.0.0 steamserver.net
 0.0.0.0 tiktok.com
-
 0.0.0.0 account.supercell.com
 0.0.0.0 boombeach.com
 0.0.0.0 brawlstars-api.inbox.supercell.com
