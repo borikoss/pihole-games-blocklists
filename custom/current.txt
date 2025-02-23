@@ -17086,6 +17086,10 @@
 0.0.0.0 jengadb.naturalmotion.com
 0.0.0.0 novembersoftware.com
 0.0.0.0 floodg.com
+0.0.0.0 marvelrivals.v.easebar.com
+0.0.0.0 www.marvelrivals.com
+0.0.0.0 v.easebar.com
+0.0.0.0 easebar.com
 0.0.0.0 swprod.capitalgames.com
 0.0.0.0 swprod-channel.capitalgames.com
 0.0.0.0 clashofclans.inbox.supercell.com
@@ -17592,6 +17596,7 @@
 0.0.0.0 steampowered.com
 0.0.0.0 steamserver.net
 0.0.0.0 tiktok.com
+
 0.0.0.0 account.supercell.com
 0.0.0.0 boombeach.com
 0.0.0.0 brawlstars-api.inbox.supercell.com

@@ -1,3 +1,7 @@
+0.0.0.0 marvelrivals.v.easebar.com
+0.0.0.0 www.marvelrivals.com
+0.0.0.0 v.easebar.com
+0.0.0.0 easebar.com
 0.0.0.0 swprod.capitalgames.com
 0.0.0.0 swprod-channel.capitalgames.com
 0.0.0.0 clashofclans.inbox.supercell.com
