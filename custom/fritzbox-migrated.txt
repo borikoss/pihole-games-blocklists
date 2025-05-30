@@ -508,3 +508,4 @@
 0.0.0.0 steampowered.com
 0.0.0.0 steamserver.net
 0.0.0.0 tiktok.com
+0.0.0.0 kyber.gg
